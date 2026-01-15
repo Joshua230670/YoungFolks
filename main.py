@@ -12,7 +12,3 @@ for p in products:
     print("Price:", p["price"])
     print("Image:", p["image"])
     print()
-
-#TODO: include the rate (not the count) of the product (Done)
-#TODO: include the price (Done)
-#TODO: include the picture of the product (Done)
